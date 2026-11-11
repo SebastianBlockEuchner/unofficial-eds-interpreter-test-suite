@@ -108,6 +108,7 @@ Verifies that:
 - Values specified in hexadecimal notation (0x00–0xFF) are parsed correctly and displayed as their equivalent values.
 - The data type is shown as USINT with a data size of 1 byte.
 - The parameter name, units, and help string are displayed as defined in the EDS.
+- Scaling and decimal precision is used as defined in the EDS.
 
 ---
 
